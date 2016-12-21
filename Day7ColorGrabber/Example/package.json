@@ -1,0 +1,15 @@
+{
+  "name": "Example",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "adb-reverse": "adb reverse tcp:8081 tcp:8081"
+  },
+  "dependencies": {
+    "react": "15.3.1",
+    "react-native": "0.35.0",
+    "react-native-color-grabber": "0.0.3",
+    "react-native-image-picker": "../"
+  }
+}
