@@ -10,19 +10,10 @@
 
 ### Day6 Feed Reading App Demo:
 
-<img src="https://github.com/chocoluffy/ReactNativeEveryday/blob/master/images/Day6FeedsApp2.gif" height="400" />
+<img src="https://github.com/chocoluffy/ReactNativeEveryday/blob/master/images/newDay6-0.gif" height="400" />
+<img src="https://github.com/chocoluffy/ReactNativeEveryday/blob/master/images/newDay6-1.gif" height="400" />
+<img src="https://github.com/chocoluffy/ReactNativeEveryday/blob/master/images/newDay6-2.gif" height="400" />
 
-[16.12.06] Inject ads blocking script into webview.
-
-[16.12.10] Hide tabbariOS during children scene.
-
-[16.12.11] Add local storage from floating action button inside webview.
-
-[16.12.15] upgrade all code to ES6.
-
-[16.12.17] use scrollable tab bar view.
-
-[TODO] use refreshable listview to replace with usual listview, and test it with collection data.
 
 ### Day7 Color Grabber App Demo:
 
