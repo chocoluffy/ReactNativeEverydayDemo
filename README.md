@@ -2,23 +2,23 @@
 
 ### Day2 Sentiment Analysis App Demo:
 
-<img src="https://github.com/chocoluffy/ReactNativeEveryday/blob/master/images/Jun-24-2016%2014-49-54.gif" height="400" />
+<img src="https://github.com/chocoluffy/ReactNativeEverydayDemo/blob/master/images/Jun-24-2016%2014-49-54.gif" height="400" />
 
 ### Day3 Simple Blog Client App Demo:
 
-<img src="https://github.com/chocoluffy/ReactNativeEveryday/blob/master/images/react-native-simpleNavigator.gif" height="400" />
+<img src="https://github.com/chocoluffy/ReactNativeEverydayDemo/blob/master/images/react-native-simpleNavigator.gif" height="400" />
 
 ### Day6 Feed Reading App Demo:
 
-<img src="https://github.com/chocoluffy/ReactNativeEveryday/blob/master/images/newDay6-0.gif" height="400" />
-<img src="https://github.com/chocoluffy/ReactNativeEveryday/blob/master/images/newDay6-1.gif" height="400" />
-<img src="https://github.com/chocoluffy/ReactNativeEveryday/blob/master/images/newDay6-2.gif" height="400" />
+<img src="https://github.com/chocoluffy/ReactNativeEverydayDemo/blob/master/images/newDay6-0.gif" height="400" />
+<img src="https://github.com/chocoluffy/ReactNativeEverydayDemo/blob/master/images/newDay6-1.gif" height="400" />
+<img src="https://github.com/chocoluffy/ReactNativeEverydayDemo/blob/master/images/newDay6-2.gif" height="400" />
 
 
 ### Day7 Color Grabber App Demo:
 
-<img src="https://github.com/chocoluffy/ReactNativeEveryday/blob/master/images/Day7ColorGrabber.gif" height="400" />
-<img src="https://github.com/chocoluffy/ReactNativeEveryday/blob/master/images/Day7ColorGrabber2.gif" height="400" />
+<img src="https://github.com/chocoluffy/ReactNativeEverydayDemo/blob/master/images/Day7ColorGrabber.gif" height="400" />
+<img src="https://github.com/chocoluffy/ReactNativeEverydayDemo/blob/master/images/Day7ColorGrabber2.gif" height="400" />
 
 ## Trouble Shooting
 
