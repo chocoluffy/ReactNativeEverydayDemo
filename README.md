@@ -6,7 +6,7 @@
 <img src="https://github.com/chocoluffy/ReactNativeEverydayDemo/blob/master/images/whalesper-event.gif" height="400" />
 <img src="https://github.com/chocoluffy/ReactNativeEverydayDemo/blob/master/images/whalesper-campus.gif" height="400" />
 
-See complete release note
+See complete release note [here](http://chocoluffy.com/2017/03/20/App%E9%A6%96%E5%8F%91%EF%BD%9C%E9%B2%B8%E8%AF%AD-%E5%A4%9A%E4%BC%A6%E5%A4%9A%E7%8E%A9%E4%B9%90%E6%94%BB%E7%95%A5%E7%AC%AC%E4%B8%80%E5%85%A5%E5%8F%A3/)
 
 
 ### Day2 Sentiment Analysis App Demo:
